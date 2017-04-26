@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486458345 source:c:\users\admin\desktop\studia\nowy folder (2)\onp\onp\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+
